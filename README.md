@@ -42,7 +42,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="40" height="40" />
   </a>
 </p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-r&show_icons=true&locale=en&layout=compact" alt="zaid-r" />
 </p>
