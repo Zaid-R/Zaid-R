@@ -41,6 +41,15 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="40" height="40" />
   </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="postgreSQL" width="40" height="40" />
+  </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="postgreSQL" width="40" height="40" />
+  </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt="postgreSQL" width="40" height="40" />
+  </a>
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-r&show_icons=true&locale=en&layout=compact" alt="zaid-r" />
