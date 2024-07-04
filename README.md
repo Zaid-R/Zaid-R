@@ -6,7 +6,7 @@
 - 📫 How to reach me **zaid.rjab1@gmail.com**
    
 ### Languages and Tools: 
- 
+  
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
