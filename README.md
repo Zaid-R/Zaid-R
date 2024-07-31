@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=zaid-r&show_icons=true&locale=en" alt="Zaid-R" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaid-r&show_icons=true&locale=en&cache_seconds=1800" alt="Zaid-R" />
 </p>
  
 <p p align="center">
