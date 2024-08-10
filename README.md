@@ -7,50 +7,26 @@
     
 ### Languages and Tools: 
   
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
-  </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="40" height="40" />
-  </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="postgreSQL" width="40" height="40" />
-  </a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="postgreSQL" width="40" height="40" />
-  </a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt="postgreSQL" width="40" height="40" />
-  </a>
-</p>
+  <img align="left" alt="dart" width="35px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+  <img align="left" alt="firebase" width="35px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+  <img align="left" alt="flutter" width="35px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+  <img align="left" alt="git" width="35px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img align="left" alt="vscode" width="35px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+  <img align="left" alt="javascript" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+  <img align="left" alt="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+  <img align="left" alt="CSS" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+  <img align="left" alt="React" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+  <img align="left" alt="Jira" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" />
+  <img align="left" alt="postgreSQL" width="35px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
+  <img align="left" alt="Visual Studio" width="35px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" />
+  <img align="left" alt="C#" width="35px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
+  <img align="left" alt=".NET Core" width="35px" style="padding-right: 10px;" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" />
+  <br />
+  
+  #
+
+
+
 
 
 <p align="center">
