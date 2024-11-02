@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack Web developer</h3>
   
 - 🌱 I’m currently learning .NET  
-- 💬 Ask me about **Web development and Flutter**
+- 💬 Ask me about **Web development**
 - 📫 How to reach me **zaid.rjab1@gmail.com**
     
 ### Languages and Tools: 
