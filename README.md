@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Zaid Rajab</h1>
-<h3 align="center">A passionate Full-stack Web & Flutter developer</h3>
+<h3 align="center">A passionate Full-stack Web developer</h3>
   
 - 🌱 I’m currently learning .NET  
 - 💬 Ask me about **Web development and Flutter**
