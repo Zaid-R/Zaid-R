@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Zaid Rajab</h1>
 <h3 align="center">A passionate Full-stack Web developer</h3>
   
-- 🌱 I’m currently learning .NET  
+- 🌱 I’m currently learning Spring Boot & Angular
 - 💬 Ask me about **Web development**
 - 📫 How to reach me **zaid.rjab1@gmail.com**
     
