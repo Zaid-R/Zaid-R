@@ -34,5 +34,5 @@
 </p>
  
 <p p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-r&" alt="Zaid-R" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-r" alt="README streak stats" />
 </p>
